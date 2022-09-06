@@ -1,0 +1,13 @@
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\Kur.exe.config
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\Kur.exe
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\Kur.pdb
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.csproj.AssemblyReference.cache
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.csproj.SuggestedBindingRedirects.cache
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.csproj.CoreCompileInputs.cache
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.exe
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.pdb
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\EntityFramework.dll
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\EntityFramework.xml
+C:\Users\efe38\source\repos\Kur\Kur\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\efe38\source\repos\Kur\Kur\obj\Debug\Kur.csproj.CopyComplete

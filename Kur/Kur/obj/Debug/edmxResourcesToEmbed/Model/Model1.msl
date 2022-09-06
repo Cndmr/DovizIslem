@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ConsoleDbProjeModelStoreContainer" CdmEntityContainer="ConsoleDbProjeEntities">
+    <EntitySetMapping Name="TblCurrency">
+      <EntityTypeMapping TypeName="ConsoleDbProjeModel.TblCurrency">
+        <MappingFragment StoreEntitySet="TblCurrency">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CurrencyName" ColumnName="CurrencyName" />
+          <ScalarProperty Name="CurrencySymbol" ColumnName="CurrencySymbol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblCurrencyValue">
+      <EntityTypeMapping TypeName="ConsoleDbProjeModel.TblCurrencyValue">
+        <MappingFragment StoreEntitySet="TblCurrencyValue">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+          <ScalarProperty Name="CurrencyBuying" ColumnName="CurrencyBuying" />
+          <ScalarProperty Name="CurrencySelling" ColumnName="CurrencySelling" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblOperation">
+      <EntityTypeMapping TypeName="ConsoleDbProjeModel.TblOperation">
+        <MappingFragment StoreEntitySet="TblOperation">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CostumerName" ColumnName="CostumerName" />
+          <ScalarProperty Name="CostumerSurname" ColumnName="CostumerSurname" />
+          <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+          <ScalarProperty Name="OperationType" ColumnName="OperationType" />
+          <ScalarProperty Name="CurrentValue" ColumnName="CurrentValue" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
